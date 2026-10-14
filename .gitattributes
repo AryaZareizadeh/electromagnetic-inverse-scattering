@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.png binary
+*.npy binary
+*.pt binary
+*.pkl binary
+*.tar binary
+
+# Preserve the original bytes used by the historical asset manifest.
+archive/legacy/*.py -text
+archive/reviews/*.md -text
+archive/** -whitespace

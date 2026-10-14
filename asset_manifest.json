@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "created_date": "2026-10-14",
+  "description": "Original asset hashes captured before reorganization. Notebook source and historical outputs are exported to Python and Markdown.",
+  "files": [
+    {
+      "original_path": "Data_Creation.ipynb",
+      "size_bytes": 15281,
+      "sha256": "37b4c032907546b4aa7415619a1d237298b7ef990f8bcb4c5c1be52e7f706e5b",
+      "path": "archive/legacy/Data_Creation.py",
+      "exported_source_sha256": "7baaba454740b1b7d27627750e72fd1aed809e6a812647f39f44772b2894877a",
+      "code_cells": 11
+    },
+    {
+      "original_path": "dataset_test.pkl",
+      "size_bytes": 12672784,
+      "sha256": "fea85d1fcb71ccac54450759082bb03ffa7a989db83aa92c2fc1a853fdbce053",
+      "path": "data/legacy/dataset_test.pkl"
+    },
+    {
+      "original_path": "dataset_train.pkl",
+      "size_bytes": 63360784,
+      "sha256": "a8df70abd8e676fbf72e8ae47e0e931041e9bf97886c061ecb960e4a54bd5d4b",
+      "path": "data/legacy/dataset_train.pkl"
+    },
+    {
+      "original_path": "DConvNet.ipynb",
+      "size_bytes": 447150,
+      "sha256": "04cc1771d8d0d4278800823477b98c424d99d9240854a7bf2c5a96646b95cda1",
+      "path": "archive/legacy/DConvNet.py",
+      "exported_source_sha256": "dde21bd16bcc1c03b85f6ea6d9f353c0e1aae53ebcf7a7b34cf492b5d5ee2983",
+      "code_cells": 14
+    },
+    {
+      "original_path": "DConvNet_FullData.ipynb",
+      "size_bytes": 135308,
+      "sha256": "32cf99fed167d903f08c8f7f82d9ccb37642f6e4ec239b7ad5338ff7d759e73e",
+      "path": "archive/legacy/DConvNet_FullData.py",
+      "exported_source_sha256": "15445389179d015792b0343c60979accbfc329185df9640c7a71bb4286c12c95",
+      "code_cells": 14
+    },
+    {
+      "original_path": "Domains.npy",
+      "size_bytes": 62720128,
+      "sha256": "47584d0419e292a15a8f8702eed88bec3222387a4033ee19ddd2dbca0936010e",
+      "path": "data/processed/Domains.npy",
+      "shape": [
+        5000,
+        2,
+        28,
+        28
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Domains01.npy",
+      "size_bytes": 62720128,
+      "sha256": "83f12eb6cddd8485d41afc261b7b0a774a963d4b962b285372ad5afb0710eb6b",
+      "path": "data/legacy/Domains01.npy",
+      "shape": [
+        5000,
+        2,
+        28,
+        28
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Domains_cy.npy",
+      "size_bytes": 12544128,
+      "sha256": "a832259469bba4417893741ba69396081f335d6cf157dd74d37bf0c99fb3f124",
+      "path": "data/processed/Domains_cy.npy",
+      "shape": [
+        1000,
+        2,
+        28,
+        28
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Domains_test.npy",
+      "size_bytes": 12544128,
+      "sha256": "7e51dad4cb360f3cc90cf129f904f157dc1f3541eb6c2e140191c2c2785b9941",
+      "path": "data/processed/Domains_test.npy",
+      "shape": [
+        1000,
+        2,
+        28,
+        28
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Field_Data.npy",
+      "size_bytes": 32000128,
+      "sha256": "fe2b6ad13dd2e57eecf8f41ac9422430428f01d44c6c659451494c205247bfbe",
+      "path": "data/processed/Field_Data.npy",
+      "shape": [
+        5000,
+        2,
+        20,
+        20
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Field_Data_cy.npy",
+      "size_bytes": 6400128,
+      "sha256": "ce85bf7ee75316f928f53e1b48b9672483b735ba698400d56715fa1347593057",
+      "path": "data/processed/Field_Data_cy.npy",
+      "shape": [
+        1000,
+        2,
+        20,
+        20
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Field_Data_test.npy",
+      "size_bytes": 6400128,
+      "sha256": "5e473a9a5f4aa9e44c7c5e1f6228dbd1ca5ba5d1bd082439b5fd12992e549da7",
+      "path": "data/processed/Field_Data_test.npy",
+      "shape": [
+        1000,
+        2,
+        20,
+        20
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Ks.pt",
+      "size_bytes": 4014080668,
+      "sha256": "cceca149c2dbe7c1ee5ca4549fe3258dbfb3f26c93e9046a6da91ad231a8e001",
+      "path": "artifacts/pretrained/Ks.pt"
+    },
+    {
+      "original_path": "Labels.npy",
+      "size_bytes": 40128,
+      "sha256": "c882d49fdd593ce8a4394e6e9bc601bb3a05b3731fd2bc7845bbf837f8e7a8d4",
+      "path": "data/processed/Labels.npy",
+      "shape": [
+        5000
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "Labels_test.npy",
+      "size_bytes": 8128,
+      "sha256": "e01ece1961ba138c502b975f9f07510189263e68d07b589b9f9531c0d2bd1fb9",
+      "path": "data/processed/Labels_test.npy",
+      "shape": [
+        1000
+      ],
+      "dtype": "float64"
+    },
+    {
+      "original_path": "my_checkpoint.pth.tar",
+      "size_bytes": 4798581225,
+      "sha256": "cccc068dc62513af951f451676ffa74d7592895a873caab34e8090c46a8fa496",
+      "path": "artifacts/pretrained/my_checkpoint.pth.tar"
+    },
+    {
+      "original_path": "NOTEBOOK_CLEANUP_REVIEW.md",
+      "size_bytes": 10856,
+      "sha256": "1d9fc843e0b11af9d505af00136b1f27c37eb9ae61c186320d95404ddc1d1c4c",
+      "path": "archive/reviews/NOTEBOOK_CLEANUP_REVIEW.md"
+    },
+    {
+      "original_path": "PROJECT_REVIEW.md",
+      "size_bytes": 19224,
+      "sha256": "3f71dc1b7b4dac68c62ca6af3463987c9446f3f6d065d92225adcf8af50810b9",
+      "path": "archive/reviews/PROJECT_REVIEW.md"
+    },
+    {
+      "original_path": "SDM.ipynb",
+      "size_bytes": 69675,
+      "sha256": "cbb41f0342c555fa71c218351ad3c9580684bea0b27b7d12ef59924f97df3e91",
+      "path": "archive/legacy/SDM.py",
+      "exported_source_sha256": "91f90d5b55469e2b60731ec95ae2d3d87eca2b7893341752b7dda75640270ce6",
+      "code_cells": 17
+    },
+    {
+      "original_path": "Xk.pt",
+      "size_bytes": 31360668,
+      "sha256": "59d13ebce12264f30bfb882461523a02b446c47387654d00be333277beb86489",
+      "path": "artifacts/pretrained/Xk.pt"
+    }
+  ]
+}

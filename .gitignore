@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+build/
+dist/
+runs/
+data/raw/
+data/generated/
+data/processed/*.npy
+data/legacy/*.npy
+data/legacy/*.pkl
+artifacts/pretrained/*.pt
+artifacts/pretrained/*.tar
+*.ipynb
+.ipynb_checkpoints/
